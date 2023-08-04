@@ -81,7 +81,7 @@
       "tippy.js/index.css"
     ]
   },
-  "main": "dist/shaka-player.compiled.js",
+  "main": "dist/shaka-player.compiled.debug.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/shaka-project/shaka-player.git"
